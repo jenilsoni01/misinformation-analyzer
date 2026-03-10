@@ -1,5 +1,10 @@
-/.vscode
-/backend
-/data
-/frontend
-/models
+.vscode
+data
+node_modules
+training_scripts
+instance
+.venv
+*.env
+*.pyc
+*.db
+__pycache__
